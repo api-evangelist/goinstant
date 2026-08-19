@@ -41,7 +41,7 @@ x-references:
   url: https://techcrunch.com/2012/07/09/salesforce-com-reported-to-buy-goinstant-for-70-million/
 - name: GoInstant is gone (Ben Yoskovitz, 2014-10-22)
   url: https://www.instigatorblog.com/goinstant-is-gone/2014/10/22/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
